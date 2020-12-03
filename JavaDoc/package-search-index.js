@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"prezoom"},{"l":"prezoom.controller"},{"l":"prezoom.model"},{"l":"prezoom.model.GObject"},{"l":"prezoom.view"},{"l":"prezoom.view.table"}]
