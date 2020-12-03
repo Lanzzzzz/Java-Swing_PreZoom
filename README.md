@@ -4,6 +4,8 @@
 
 A presentation application that combines features of PowerPoint, Prezi, and Keynote.
 
+[Find Release Here](https://github.com/Lanzzzzz/Java-Swing_PreZoom/releases/)
+
 ## Feature Show Cases
 
 * Drawing Objects
