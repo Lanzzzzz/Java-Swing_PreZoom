@@ -33,6 +33,8 @@ A presentation application that combines features of PowerPoint, Prezi, and Keyn
 
 ## Documentation
 
+* [JavaDoc](docs/JavaDoc/index.html)
+
 * [Proposal-PreZoom Inception](docs/2020-prezoom-inception-doc.pdf)
 
 * [design folder](docs/design)
