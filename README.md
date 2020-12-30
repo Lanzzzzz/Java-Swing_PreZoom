@@ -4,7 +4,7 @@
 
 A presentation application that combines features of PowerPoint, Prezi, and Keynote.
 
-[Find Release Here](https://github.com/Lanzzzzz/Java-Swing_PreZoom/releases/)
+[Find Release Here](https://github.com/Zj-Lan/Java-Swing_PreZoom/releases/)
 
 ## Feature Show Cases
 
@@ -33,7 +33,7 @@ A presentation application that combines features of PowerPoint, Prezi, and Keyn
 
 ## Documentation
 
-* [JavaDoc](https://lanzzzzz.github.io/Java-Swing_PreZoom/docs/JavaDoc/index.html)
+* [JavaDoc](https://zj-lan.github.io/Java-Swing_PreZoom/docs/JavaDoc/index.html)
 
 * [Proposal-PreZoom Inception](docs/2020-prezoom-inception-doc.pdf)
 
